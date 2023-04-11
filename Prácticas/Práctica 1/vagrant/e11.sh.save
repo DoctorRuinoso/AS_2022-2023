@@ -1,0 +1,22 @@
+and=$(cat /etc/passwd | grep webuser)
+web=$(cat /etc/passwd | grep andres)
+
+if [[ -z $and && -z $web ]]
+then
+        echo Usuarios no encontrados, error.
+else
+        echo Usuario creados, éxito.
+fi
+
+echo ¿Está 'andres' en el grupo 'webuser'?:
+id andres | grep webuser
+then
+	echo No pertenece al grupo 'webuser', error.
+else
+	echo Pertenece al grupo 'webuser', éxito.
+fi
+
+echo Intento de login, usuario: andres, contraseña: andres
+su andres
+
+echo Ejecutaremos el siguiente comando con permisos de sudo mediante 'webuser' en sesión iniciada con el usuario 'andres':

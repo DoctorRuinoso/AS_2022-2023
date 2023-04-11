@@ -1,0 +1,12 @@
+#!/bin/bash
+
+directorio=$1
+cont=0
+
+
+for archivo in $(ls $directorio); do
+	cont=$((cont+1))
+	extension=$(basename "$archivo" | cut -d. -f2)
+	mv $directorio/$archivo $directorio/$cont.$extension
+
+done

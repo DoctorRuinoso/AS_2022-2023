@@ -1,0 +1,3 @@
+usuario1:contrasena:UID:GID:comentario:directorio_inicio:/bin/bash
+usuario2:contrasena:UID:GID:comentario:directorio_inicio:/usr/sbin/nologin
+usuario3:contrasena:UID:GID:comentario:directorio_inicio:/usr/sbin/nologin

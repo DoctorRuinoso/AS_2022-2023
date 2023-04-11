@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Obtener la última línea del archivo crontab
+last_line=$(crontab -l | tail -1)
+
+# Comprobar si la última línea es la línea que hemos añadido
+if [ "$last_line" = "30 9 * * * /ruta/a/tu/script_de_backup.sh" ]; then
+  echo "La línea de la tarea de backup está al final del archivo crontab."
+else
+  echo "La línea de la tarea de backup no está al final del archivo crontab."
+fi
+#!/bin/bash
+
+fecha=$(date +%Y-%m-%d)
+
+# Comprobar si el archivo de registro existe
+if [ -e /ruta/a/tu/archivo_de_log_${fecha}.txt ]; then
+  if grep -q "backup completado" /ruta/a/tu/archivo_de_log_${fecha}.txt; then
+    echo "La tarea de backup se ha ejecutado correctamente."
+  else
+    echo "La tarea de backup no se ha ejecutado correctamente."
+  fi
+else
+  echo "No se ha encontrado el archivo de registro de la tarea de backup."
+fi
+

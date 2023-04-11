@@ -1,0 +1,147 @@
+[ 7359.530963] print_req_error: I/O error, dev loop0, sector 204672
+[ 7359.535467] print_req_error: I/O error, dev loop0, sector 204672
+[ 7359.539587] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 7359.545697] print_req_error: I/O error, dev loop0, sector 204672
+[ 7359.549761] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 7359.555407] print_req_error: I/O error, dev loop0, sector 2
+[ 7359.559066] EXT4-fs (loop0): unable to read superblock
+[ 7359.561785] print_req_error: I/O error, dev loop0, sector 204672
+[ 7359.566589] print_req_error: I/O error, dev loop0, sector 204672
+[ 7359.566676] print_req_error: I/O error, dev loop0, sector 2
+[ 7359.571221] Buffer I/O error on dev loop0, logical block 102336, async page read
+[ 7359.574974] EXT4-fs (loop0): unable to read superblock
+[ 7359.579868] print_req_error: I/O error, dev loop0, sector 204674
+[ 7359.586382] Buffer I/O error on dev loop0, logical block 102337, async page read
+[ 7359.591425] print_req_error: I/O error, dev loop0, sector 2
+[ 7359.595190] print_req_error: I/O error, dev loop0, sector 204676
+[ 7359.599028] Buffer I/O error on dev loop0, logical block 102338, async page read
+[ 7359.603616] Buffer I/O error on dev loop0, logical block 102339, async page read
+[ 7359.608659] EXT4-fs (loop0): unable to read superblock
+[ 7359.612095] Buffer I/O error on dev loop0, logical block 4, async page read
+[ 7359.616223] Buffer I/O error on dev loop0, logical block 5, async page read
+[ 7359.620699] Buffer I/O error on dev loop0, logical block 6, async page read
+[ 7359.625171] Buffer I/O error on dev loop0, logical block 7, async page read
+[ 7359.631534] SQUASHFS error: squashfs_read_data failed to read block 0x0
+[ 7359.637013] squashfs: SQUASHFS error: unable to read squashfs_super_block
+[ 8292.890750] print_req_error: I/O error, dev loop0, sector 204672
+[ 8292.895798] print_req_error: I/O error, dev loop0, sector 204672
+[ 8292.899682] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8292.906033] print_req_error: I/O error, dev loop0, sector 204672
+[ 8292.910350] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8292.916469] print_req_error: I/O error, dev loop0, sector 2
+[ 8292.920222] EXT4-fs (loop0): unable to read superblock
+[ 8292.924725] print_req_error: I/O error, dev loop0, sector 2
+[ 8292.925240] print_req_error: I/O error, dev loop0, sector 204672
+[ 8292.928640] EXT4-fs (loop0): unable to read superblock
+[ 8292.936018] print_req_error: I/O error, dev loop0, sector 204672
+[ 8292.936024] print_req_error: I/O error, dev loop0, sector 2
+[ 8292.940332] Buffer I/O error on dev loop0, logical block 102336, async page read
+[ 8292.944393] EXT4-fs (loop0): unable to read superblock
+[ 8292.949892] print_req_error: I/O error, dev loop0, sector 204674
+[ 8292.958467] Buffer I/O error on dev loop0, logical block 102337, async page read
+[ 8292.963440] print_req_error: I/O error, dev loop0, sector 0
+[ 8292.966904] Buffer I/O error on dev loop0, logical block 102338, async page read
+[ 8292.971728] Buffer I/O error on dev loop0, logical block 102339, async page read
+[ 8292.977098] SQUASHFS error: squashfs_read_data failed to read block 0x0
+[ 8292.981374] squashfs: SQUASHFS error: unable to read squashfs_super_block
+[ 8292.986158] Buffer I/O error on dev loop0, logical block 4, async page read
+[ 8292.990827] Buffer I/O error on dev loop0, logical block 5, async page read
+[ 8292.994973] Buffer I/O error on dev loop0, logical block 6, async page read
+[ 8292.998978] Buffer I/O error on dev loop0, logical block 7, async page read
+[ 8347.038717] print_req_error: I/O error, dev loop0, sector 204672
+[ 8347.041305] print_req_error: I/O error, dev loop0, sector 204672
+[ 8347.043326] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8347.046504] print_req_error: I/O error, dev loop0, sector 204672
+[ 8347.049808] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8347.054034] print_req_error: I/O error, dev loop0, sector 204672
+[ 8347.057023] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8347.061002] print_req_error: I/O error, dev loop0, sector 8
+[ 8347.063821] print_req_error: I/O error, dev loop0, sector 2
+[ 8347.066563] EXT4-fs (loop0): unable to read superblock
+[ 8347.069279] print_req_error: I/O error, dev loop0, sector 8
+[ 8347.072334] print_req_error: I/O error, dev loop0, sector 2
+[ 8347.072446] print_req_error: I/O error, dev loop0, sector 8
+[ 8347.077420] EXT4-fs (loop0): unable to read superblock
+[ 8347.083109] Buffer I/O error on dev loop0, logical block 4, async page read
+[ 8347.086445] print_req_error: I/O error, dev loop0, sector 10
+[ 8347.089170] Buffer I/O error on dev loop0, logical block 5, async page read
+[ 8347.092537] Buffer I/O error on dev loop0, logical block 6, async page read
+[ 8347.095882] Buffer I/O error on dev loop0, logical block 7, async page read
+[ 8347.099361] EXT4-fs (loop0): unable to read superblock
+[ 8347.106411] SQUASHFS error: squashfs_read_data failed to read block 0x0
+[ 8347.109830] squashfs: SQUASHFS error: unable to read squashfs_super_block
+[ 8463.899826] print_req_error: I/O error, dev loop0, sector 204672
+[ 8463.904623] print_req_error: I/O error, dev loop0, sector 204672
+[ 8463.908882] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8463.914333] print_req_error: I/O error, dev loop0, sector 204672
+[ 8463.920574] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8463.925891] print_req_error: I/O error, dev loop0, sector 204672
+[ 8463.930558] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8463.935888] print_req_error: I/O error, dev loop0, sector 8
+[ 8463.940117] print_req_error: I/O error, dev loop0, sector 8
+[ 8463.943825] Buffer I/O error on dev loop0, logical block 4, async page read
+[ 8463.948573] print_req_error: I/O error, dev loop0, sector 10
+[ 8463.952713] Buffer I/O error on dev loop0, logical block 5, async page read
+[ 8463.957375] print_req_error: I/O error, dev loop0, sector 12
+[ 8463.961593] Buffer I/O error on dev loop0, logical block 6, async page read
+[ 8463.966181] print_req_error: I/O error, dev loop0, sector 14
+[ 8463.970165] Buffer I/O error on dev loop0, logical block 7, async page read
+[ 8463.975375] print_req_error: I/O error, dev loop0, sector 8
+[ 8463.975417] EXT4-fs (loop0): unable to read superblock
+[ 8463.979803] Buffer I/O error on dev loop0, logical block 4, async page read
+[ 8463.988576] Buffer I/O error on dev loop0, logical block 5, async page read
+[ 8463.993037] Buffer I/O error on dev loop0, logical block 6, async page read
+[ 8463.997517] EXT4-fs (loop0): unable to read superblock
+[ 8464.004880] EXT4-fs (loop0): unable to read superblock
+[ 8464.007946] SQUASHFS error: squashfs_read_data failed to read block 0x0
+[ 8464.011003] squashfs: SQUASHFS error: unable to read squashfs_super_block
+[ 8719.219168] print_req_error: I/O error, dev loop0, sector 204672
+[ 8719.223318] print_req_error: I/O error, dev loop0, sector 204672
+[ 8719.227602] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8719.233594] print_req_error: I/O error, dev loop0, sector 204672
+[ 8719.240360] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8719.246175] print_req_error: I/O error, dev loop0, sector 204672
+[ 8719.251299] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8719.257644] print_req_error: I/O error, dev loop0, sector 2
+[ 8719.261811] print_req_error: I/O error, dev loop0, sector 204672
+[ 8719.265911] EXT4-fs (loop0): unable to read superblock
+[ 8719.266363] print_req_error: I/O error, dev loop0, sector 204672
+[ 8719.274508] Buffer I/O error on dev loop0, logical block 102336, async page read
+[ 8719.279683] print_req_error: I/O error, dev loop0, sector 204674
+[ 8719.283585] Buffer I/O error on dev loop0, logical block 102337, async page read
+[ 8719.288681] print_req_error: I/O error, dev loop0, sector 204676
+[ 8719.292594] Buffer I/O error on dev loop0, logical block 102338, async page read
+[ 8719.297848] print_req_error: I/O error, dev loop0, sector 204678
+[ 8719.301766] Buffer I/O error on dev loop0, logical block 102339, async page read
+[ 8719.306995] EXT4-fs (loop0): unable to read superblock
+[ 8719.310925] Buffer I/O error on dev loop0, logical block 4, async page read
+[ 8719.311527] EXT4-fs (loop0): unable to read superblock
+[ 8719.315379] Buffer I/O error on dev loop0, logical block 5, async page read
+[ 8719.315382] Buffer I/O error on dev loop0, logical block 6, async page read
+[ 8719.325970] SQUASHFS error: squashfs_read_data failed to read block 0x0
+[ 8719.327875] squashfs: SQUASHFS error: unable to read squashfs_super_block
+[ 8887.483404] print_req_error: I/O error, dev loop0, sector 204672
+[ 8887.487297] print_req_error: I/O error, dev loop0, sector 204672
+[ 8887.491057] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8887.496326] print_req_error: I/O error, dev loop0, sector 204672
+[ 8887.502231] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8887.507602] print_req_error: I/O error, dev loop0, sector 204672
+[ 8887.512152] Buffer I/O error on dev loop0, logical block 25584, async page read
+[ 8887.517421] print_req_error: I/O error, dev loop0, sector 2
+[ 8887.521051] print_req_error: I/O error, dev loop0, sector 204672
+[ 8887.524809] EXT4-fs (loop0): unable to read superblock
+[ 8887.524955] print_req_error: I/O error, dev loop0, sector 204672
+[ 8887.532594] Buffer I/O error on dev loop0, logical block 102336, async page read
+[ 8887.537251] print_req_error: I/O error, dev loop0, sector 2
+[ 8887.540783] print_req_error: I/O error, dev loop0, sector 204674
+[ 8887.544244] Buffer I/O error on dev loop0, logical block 102337, async page read
+[ 8887.548515] print_req_error: I/O error, dev loop0, sector 204676
+[ 8887.552032] Buffer I/O error on dev loop0, logical block 102338, async page read
+[ 8887.556322] Buffer I/O error on dev loop0, logical block 102339, async page read
+[ 8887.561148] Buffer I/O error on dev loop0, logical block 4, async page read
+[ 8887.561175] EXT4-fs (loop0): unable to read superblock
+[ 8887.565467] Buffer I/O error on dev loop0, logical block 5, async page read
+[ 8887.565470] Buffer I/O error on dev loop0, logical block 6, async page read
+[ 8887.575862] EXT4-fs (loop0): unable to read superblock
+[ 8887.582349] SQUASHFS error: squashfs_read_data failed to read block 0x0
+[ 8887.585679] squashfs: SQUASHFS error: unable to read squashfs_super_block

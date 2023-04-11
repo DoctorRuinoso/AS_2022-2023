@@ -1,0 +1,3 @@
+usuario1:x:1002:1002::/home/usuario1:/bin/bash
+usuario2:x:1002:1002::/home/usuario2:/bin/bash
+usuario3:x:1002:1002::/home/usuario3:/usr/sbin/nologin
